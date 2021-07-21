@@ -1,0 +1,14 @@
+@media (max-width: 670px) {
+  .atas {
+    text-align: left;
+  }
+
+  .atas h2 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  footer {
+    text-align: center;
+  }
+}
