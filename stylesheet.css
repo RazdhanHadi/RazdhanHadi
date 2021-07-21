@@ -22,13 +22,13 @@ a {
 }
 
 .container {
-  width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 header {
-  background-color: #1e272e;
+  background-color: rgba(34, 49, 52, 0.9);
   height: 65px;
   width: 100%;
   position: fixed;
@@ -36,7 +36,9 @@ header {
 }
 
 .header-logo {
-  float: left
+  float: left;
+  line-height: 85px;
+  padding-left: 20px;
 }
 
 .logo {
