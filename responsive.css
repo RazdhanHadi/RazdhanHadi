@@ -1,11 +1,9 @@
-@media all and (max-width: 760px){
-  body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
+@media all and (max-width: 670px){
   
   header {
     width: 100%;
     padding: auto;
+    margin: auto;
   }
   
   .atas {
@@ -27,6 +25,8 @@
 
   footer {
     width: 100%;
+    padding: auto;
+    margin: auto;
     text-align: center;
   }
   
