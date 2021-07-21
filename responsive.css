@@ -20,6 +20,10 @@
   .atas h2 {
     font-size: 20px;
   }
+  
+  .atas p {
+    font-size: 15px;
+  }
 
   footer {
     width: 100%;
