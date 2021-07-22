@@ -21,7 +21,12 @@ a {
   text-decoration: none;
 }
 
+.clear {
+  clear: left;
+}
+
 .container {
+  max-width: 1170px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
@@ -32,6 +37,7 @@ header {
   height: 65px;
   width: 100%;
   position: fixed;
+  top: 0;
   z-index: 10;
 }
 
@@ -100,9 +106,3 @@ footer h3 {
 .footer-left {
   float: left;
 }
-
-.footer-right {
-  float: right;
-  padding-top: 12px;
-}
-
