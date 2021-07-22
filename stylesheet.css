@@ -47,6 +47,7 @@ header {
 
 .atas {
   background-image: url(background.jpg);
+  background-size: cover;
   padding-top: 120px;
   padding-bottom: 100px;
   text-align: center;
