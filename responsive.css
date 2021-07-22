@@ -20,14 +20,14 @@
   }
   
   .atas p {
-    font-size: 15px;
+    font-size: 12px;
   }
 
   footer {
     width: 100%;
     padding: auto;
     margin: auto;
-    text-align: center;
+    text-align: left;
   }
   
   .footer-right {
