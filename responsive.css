@@ -29,11 +29,7 @@
 
   footer {
     width: 100%;
-    float: left;
     text-align: center;
   }
   
-  .footer-right {
-    display: none;
-  }
 }
