@@ -1,17 +1,7 @@
 @media all and (max-width: 670px){
   
-  .container {
-    width: 100%;
-    padding: 0;
-    margin: 0;
-  }
-  
-  header {
-    width: 100%;
-  }
-  
   .atas {
-    text-align: right;
+    text-align: left;
   }
 
   .atas h1 {
