@@ -43,7 +43,6 @@ header {
 .header-logo {
   float: left;
   line-height: 85px;
-  padding-left: 20px;
 }
 
 .logo {
@@ -88,7 +87,6 @@ footer {
   color: white;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 20px;
   height: 70px;
 }
 
