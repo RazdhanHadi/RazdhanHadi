@@ -1,15 +1,5 @@
 @media all and (max-width: 670px){
-  
-  .container {
-    width: 100%;
-    padding: 0;
-    margin: 0;
-  }
-  
-  body {
-    padding: 0, 15px;
-  }
-  
+
   .atas {
     text-align: left;
   }
@@ -29,7 +19,7 @@
 
   footer {
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
   
 }
