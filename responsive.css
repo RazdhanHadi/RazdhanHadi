@@ -25,6 +25,13 @@
   .profil {
     width: 100%;
   }
-
+  
+  .profil p {
+    width: 100%;
+  }
+  
+  .profil a {
+    width: 100%;
+  }
 
 }
