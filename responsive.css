@@ -17,20 +17,21 @@
     font-size: 12px;
   }
 
-  footer {
-    width: 100%;
+  .daftar-profil {
     text-align: center;
-  }
-  
-  .tengah {
-    height: 1000px;
   }
   
   .profil p {
     width: 100%;
   }
   
-  .daftar-profil {
+  .profil a {
+    width: 100%;
+  }
+  
+  footer {
+    width: 100%;
     text-align: center;
   }
+
 }
