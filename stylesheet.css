@@ -108,6 +108,14 @@ header {
   text-align: center;
 }
 
+.profil-2 {
+  float:left;
+  width: 50%;
+  padding-top: 120px;
+  padding-bottom: auto;
+  text-align: center;
+}
+
 .profil img {
   width: 300px;
   height: auto;
@@ -115,6 +123,21 @@ header {
 }
 
 .profil p {
+  padding-top: 20px;
+  text-align: justify;
+  display: inline-block;
+  font-family: "Palatino Linotype";
+  width: 70%;
+  margin: 0;
+}
+
+.profil-2 img {
+  width: 300px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.profil-2 p {
   padding-top: 20px;
   text-align: justify;
   display: inline-block;
